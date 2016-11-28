@@ -31,11 +31,13 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 https://vuefe.cn/v2/guide/
 
-http://zhaoda.net/webpack-handbook
+http://router.vuejs.org/zh-cn/
+
+https://vue-loader.vuejs.org/en/
 
 http://vuex.vuejs.org/zh-cn/intro.html
 
-http://router.vuejs.org/zh-cn/
+http://zhaoda.net/webpack-handbook
 
 http://es6.ruanyifeng.com/
 
