@@ -1,10 +1,10 @@
 <template>
   <div class="header el-menu--dark" >
     <el-row>
-      <el-col :span="4">
+      <el-col :span="3">
         <img src="../assets/logo.png" class="logo">
       </el-col>
-      <el-col :span="16">
+      <el-col :span="17">
         <el-menu theme="dark" default-active="1" class="el-menu-demo" mode="horizontal" router>
           <el-menu-item index="/index">首页</el-menu-item>
           <el-menu-item index="/page2">第二页</el-menu-item>
