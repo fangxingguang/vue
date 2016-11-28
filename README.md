@@ -25,3 +25,18 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+# 参考文档
+
+https://vuefe.cn/v2/guide/
+
+http://zhaoda.net/webpack-handbook
+
+http://vuex.vuejs.org/zh-cn/intro.html
+
+http://router.vuejs.org/zh-cn/
+
+http://es6.ruanyifeng.com/
+
+http://www.kancloud.cn/wujie520303/bookmark/221973
