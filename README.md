@@ -27,6 +27,7 @@ npm test
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 
+
 # 参考文档
 
 http://www.runoob.com/nodejs/nodejs-tutorial.html（运行环境）
@@ -45,4 +46,4 @@ http://es6.ruanyifeng.com/（语法）
 
 https://github.com/vuejs/awesome-vue（资源）
 
-http://www.kancloud.cn/wujie520303/bookmark/221973
+http://www.kancloud.cn/wujie520303/bookmark/221973（前端知识库）
