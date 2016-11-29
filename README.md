@@ -29,18 +29,20 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 # 参考文档
 
-https://vuefe.cn/v2/guide/
+http://www.runoob.com/nodejs/nodejs-tutorial.html（运行环境）
 
-http://router.vuejs.org/zh-cn/
+https://vuefe.cn/v2/guide/（官方文档）
 
-https://vue-loader.vuejs.org/en/
+http://router.vuejs.org/zh-cn/（路由）
 
-http://vuex.vuejs.org/zh-cn/intro.html
+http://vuex.vuejs.org/zh-cn/intro.html（状态管理）
 
-http://zhaoda.net/webpack-handbook
+http://zhaoda.net/webpack-handbook（打包构建）
 
-http://es6.ruanyifeng.com/
+https://vue-loader.vuejs.org/en/ （webpack下loader插件 可以把.vue文件 输出成组件）
 
-http://www.runoob.com/nodejs/nodejs-tutorial.html
+http://es6.ruanyifeng.com/（语法）
+
+https://github.com/vuejs/awesome-vue（资源）
 
 http://www.kancloud.cn/wujie520303/bookmark/221973
