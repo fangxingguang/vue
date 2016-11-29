@@ -49,3 +49,5 @@ http://es6.ruanyifeng.com/ （语法）
 https://github.com/vuejs/awesome-vue （资源）
 
 http://www.kancloud.cn/wujie520303/bookmark/221973 （前端知识库）
+
+https://segmentfault.com/a/1190000006863968 （webpack配置解释）
