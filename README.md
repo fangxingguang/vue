@@ -42,8 +42,7 @@ http://zhaoda.net/webpack-handbook（打包构建）
 
 https://vue-loader.vuejs.org/en/ （webpack下loader插件 可以把.vue文件 输出成组件）
 
-https://github.com/vuejs/vue-devtools (开发调试)
-
+https://github.com/vuejs/vue-devtools（开发调试）
 http://es6.ruanyifeng.com/（语法）
 
 https://github.com/vuejs/awesome-vue（资源）
