@@ -38,7 +38,7 @@ http://router.vuejs.org/zh-cn/ （路由）
 
 http://vuex.vuejs.org/zh-cn/intro.html （状态管理）
 
-http://zhaoda.net/webpack-handbook （打包构建）
+http://zhaoda.net/webpack-handbook （webpack打包构建）
 
 https://vue-loader.vuejs.org/en/ （webpack下loader插件 可以把.vue文件 输出成组件）
 
